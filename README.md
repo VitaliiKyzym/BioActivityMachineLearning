@@ -15,6 +15,6 @@ To execute the code, please go through each notebook from 1-5
 
 ## Results and Visualizations
 
-![Image Alt text](/figs/mTOR.png
+![Image Alt text](/figs/mTOR.png)
 
 
